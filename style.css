@@ -1,0 +1,30 @@
+#ccc {
+  height: 75%;
+  border-style: ridge none;
+}
+
+#aaa {
+  height: 75%;
+  border-style: ridge;
+}
+
+#bbb {
+  height: 75%;
+  border-style: ridge none;
+}
+
+body {
+  background-color: black;
+  font-family: 'Source Sans Pro', sans-serif;
+  color: blue;
+}
+
+#outputofgooglelens {
+  background-color: #008000;
+  border-radius: 5px;
+}
+
+#outputofmobilenet {
+  background-color: #808080;
+  border-radius: 5px;
+}
